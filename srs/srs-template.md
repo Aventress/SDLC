@@ -55,6 +55,15 @@
 * [4. Верификация](#4-verification)
 * [5. Приложения](#5-appendixes)
 <!-- TOC -->
+## История изменений 
+| Name | Date | Reason For Changes | Version |
+|------|------|--------------------|---------|
+| Кожин М.М | 05.11.2026 | docs: Add SRS and mockup for DreamCart | 0.1 |
+| Кожин М.М | 05.11.2026 | docs: Fix srs | 0.2 |
+| Кожин М.М | 05.11.2026 | fix images | 0.4 |
+| Кожин М.М | 06.11.2026 | updated docs srs | 0.5 |
+| Владыковский Н. Д. | 06.11.2026 | fixed version history  | 0.6 |
+
 
 ## 1. Введение
 
